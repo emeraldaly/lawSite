@@ -1,0 +1,20 @@
+{
+  "name": "lawsite",
+  "version": "1.0.0",
+  "description": "Info site for law practice.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/lawSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldaly/lawSite/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/lawSite#readme"
+}
